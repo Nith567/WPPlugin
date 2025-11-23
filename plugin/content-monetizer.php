@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: WPX402
+ * Plugin Name: WPAgent
  * Plugin URI: https://http://localhost:3000
     private $api_endpoint = 'http://localhost:3000;
  * Description: Allows creators to monetize content by sending it to decentralised storage and rewarding them in USDC.
@@ -81,7 +81,7 @@ class ContentMonetizerPlugin
     {
 ?>
         <div class="wrap">
-            <h1>WPX402 Settings</h1>
+            <h1>WPAgent Settings</h1>
             <form method="post" action="options.php">
                 <?php
                 settings_fields('content_monetizer_settings');
