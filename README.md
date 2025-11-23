@@ -1,4 +1,4 @@
-# WPX402: Fair AI Agent for WordPress Creators
+# WPAgent: Fair AI Agent for WordPress Creators
 
 **Turn your blog into an income stream by preventing illegal scraping and enabling AI-safe monetization.**
 
@@ -14,9 +14,9 @@ Content creators invest time and energy into producing valuable articles. But on
 
 ## Solution
 
-**WPX402** is a lightweight WordPress plugin designed to help creators monetize their content.
+**WPAgent** is a lightweight WordPress plugin designed to help creators monetize their content.
 
-With WPX402, creators can:
+With WPAgent, creators can:
 
 -  Link their crypto wallet to receive payments  
 -  Set a price in usdfc for accessing their content  
